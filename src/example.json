@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1,
+        "categoria" : "Tecnología",
+        "palabra" : "Computadora"
+    },
+    {
+        "id" : 2,
+        "categoria" : "Tecnología",
+        "palabra" : "Laptop"
+    }
+]
